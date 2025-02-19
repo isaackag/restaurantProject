@@ -25,7 +25,7 @@
                             <v-img height="200px" src="/public/tartare.jpg" cover ></v-img>
 
                             <v-card-text>
-                            A classic recipe! Try out the newest addition to our vibrant menu
+                            A classic recipe! Try out the newest addition to our vibrant menu!
                             </v-card-text>
                         </v-card>
                         <v-card color="black">
